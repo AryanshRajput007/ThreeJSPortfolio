@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 import React from 'react';
-import Navbar from './sections/navbar';
-import Hero from './sections/Hero';
+import Navbar from './sections/Navbar.jsx';
+import Hero from './sections/Hero.jsx';
 
 const App = () => {
     return (
